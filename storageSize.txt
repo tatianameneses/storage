@@ -1,0 +1,11 @@
+Nome do Modelo:	MacBook Air
+  Identificador do Modelo:	MacBookAir5,2
+  Nome do Processador:	Intel Core i5
+  Velocidade do Processador:	1.8 GHz
+  Número de Processadores:	1
+  Número Total de Núcleos:	2
+  Cache L2 (por Núcleo):	256 KB
+  Cache de L3:	3 MB
+  Memória:	4 GB
+  Versão da ROM de Inicialização:	MBA51.00EF.B02
+free space 1.23GB
